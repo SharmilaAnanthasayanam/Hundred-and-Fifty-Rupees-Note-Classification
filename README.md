@@ -24,8 +24,8 @@
 
 <img width="446" alt="image" src="https://github.com/SharmilaAnanthasayanam/Hundred-and-Fifty-Rupees-Note-Classification/assets/112562560/ae10b243-5e8e-4cd8-af3d-edd9282a317a">
 
+<img width="456" alt="image" src="https://github.com/SharmilaAnanthasayanam/Hundred-and-Fifty-Rupees-Note-Classification/assets/112562560/b6e3c33e-c56a-4e20-b82f-2ec5d06e198a">
 
-<img width="454" alt="image" src="https://github.com/SharmilaAnanthasayanam/Hundred-and-Fifty-Rupees-Note-Classification/assets/112562560/89912002-6822-47ba-83e5-064a289bd685">
 
 
 
